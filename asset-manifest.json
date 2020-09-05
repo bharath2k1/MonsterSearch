@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MonsterSearch/static/css/main.3b197efb.chunk.css",
+    "main.js": "/MonsterSearch/static/js/main.b1b8b9c1.chunk.js",
+    "main.js.map": "/MonsterSearch/static/js/main.b1b8b9c1.chunk.js.map",
+    "runtime-main.js": "/MonsterSearch/static/js/runtime-main.e4f9e469.js",
+    "runtime-main.js.map": "/MonsterSearch/static/js/runtime-main.e4f9e469.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/MonsterSearch/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0b5b9267.chunk.js": "/MonsterSearch/static/js/2.0b5b9267.chunk.js",
+    "static/js/2.0b5b9267.chunk.js.map": "/MonsterSearch/static/js/2.0b5b9267.chunk.js.map",
+    "index.html": "/MonsterSearch/index.html",
+    "precache-manifest.fb8e8a1398e006fbcdd4c1a972db6079.js": "/MonsterSearch/precache-manifest.fb8e8a1398e006fbcdd4c1a972db6079.js",
+    "service-worker.js": "/MonsterSearch/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/MonsterSearch/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.3b197efb.chunk.css.map": "/MonsterSearch/static/css/main.3b197efb.chunk.css.map",
+    "static/js/2.0b5b9267.chunk.js.LICENSE.txt": "/MonsterSearch/static/js/2.0b5b9267.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/MonsterSearch/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4f9e469.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0b5b9267.chunk.js",
+    "static/css/main.3b197efb.chunk.css",
+    "static/js/main.b1b8b9c1.chunk.js"
+  ]
+}
